@@ -1,0 +1,17 @@
+{
+    "name": "Prueba PWA",
+    "short_name": "Prueba PWA",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./progresiva.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
